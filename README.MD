@@ -6,17 +6,18 @@ This project explores two years of e-commerce transactions to uncover key busine
 
 ## 📊 Key Visualizations
 
-### 🏆 Top 10 Products by Revenue
+## 🏆 Top 10 Products by Revenue
 ![Top Products](images/top_products.png)
 
-### 🌍 Revenue by Country (Excluding UK)
-![Top Countries](images/Top 10 Countries by Revenue.png)
+## 🌍 Revenue by Country (Excluding UK)
+![Top Countries](images/top_10_countries_by_revenue.png)
 
-### 📈 Monthly Revenue Trend
-![Monthly Revenue](images/Monthly Revenue Trend.png)
+## 📈 Monthly Revenue Trend
+![Monthly Revenue](images/monthly_revenue_trend.png)
 
-### 👥 Top 10 Customers by Revenue
-![Top Customers](images/Top 10 Customers by Revenue.png)
+## 👥 Top 10 Customers by Revenue
+![Top Customers](images/top_10_customers_by_revenue.png)
+
 
 ---
 
